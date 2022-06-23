@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SMARTAR"]
+	path = SMARTAR
+	url = https://github.com/tonizhong/smartar
+	shallow = true
+	registered = true
